@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Chu</h1>
 <h3 align="center">A passionate frontend developer from New York!</h3>
 
-<img align="right" alt="Kermit-Coding" width="400" src="https://media.tenor.com/X4wdMD5CqT4AAAAC/typing-kermit.gif")></img>
-
 - 🌱 I’m currently learning **Fullstack development using HTML, CSS and Javascript.**
 
 - ⚡ Fun fact **My favorite animal are frogs!**
